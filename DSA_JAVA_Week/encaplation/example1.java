@@ -1,11 +1,11 @@
 class bank{
     private int AccountNumber;
     private int AccountPassword;
-    void setAccountNumber(int x){
-        AccountNumber=x;
+    void setAccountNumber(int AccountNumber){
+        this.AccountNumber=AccountNumber;
     }
-    void setAccountPassword(int y){
-        AccountPassword=y;
+    void setAccountPassword(int AccountPassword){
+        this.AccountPassword=AccountPassword;
     }
     void getAccountNumber(){
         System.out.println(AccountNumber);
