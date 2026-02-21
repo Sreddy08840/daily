@@ -25,9 +25,8 @@
 public class example {
     
     public static void main(String[] args) {
-          test t1=new test();
+        test t1=new test();
         test.display();
-        
         t1.show();
     }
 }
