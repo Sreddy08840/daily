@@ -9,7 +9,7 @@ class parent{
 		this.b=a;
 	}
 }
-class child{
+class child extends parent{
 	int x,y;
 	child(){
 		
@@ -21,6 +21,7 @@ class child{
 		this.y=y;
 	}
 	void display(){
+		
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(x);
