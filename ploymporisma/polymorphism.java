@@ -1,4 +1,4 @@
-
+package ploymporisma;
 class Plain{
 	void fly() {
 		System.out.println("the plain is flying");
