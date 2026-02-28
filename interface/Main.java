@@ -55,6 +55,7 @@ class MyCalculator3 implements Calculator{
 		}
 		else {
 			System.out.println("invalid number");
+			System.exit(0);
 			
 		}
 		
