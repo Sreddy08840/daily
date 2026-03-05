@@ -27,7 +27,7 @@ public class twoarryrepeated {
 	    }
 		int o=scan.nextInt();
 		int[] ar2=new int[o];
-	    for(int j=0;j<ar1.length;j++) {
+	    for(int j=0;j<ar2.length;j++) {
 	    	ar2[j]=scan.nextInt();
 	    }
 	    commonNumber(ar1,ar2);
