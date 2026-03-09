@@ -9,7 +9,7 @@ public class conssubarraycountmax {
 			}
 			else {
 				if(max < count) {
-					max=max+count;
+					max=count;
 				}
 				count=1;
 			}
