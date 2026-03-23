@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class conssubarray {
-	
 	public static void consectivesubarray(int[] ar1) {
 		for(int i=0;i<ar1.length-1;i++) {
 			if(ar1[i+1]-ar1[i]==1) {
