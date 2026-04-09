@@ -6,7 +6,7 @@ class Program1
     static int a;
 
     
-
+	static int b;
     static
 
     {
@@ -21,7 +21,7 @@ class Program1
 
 
 
-    int b;
+    
 
 
 
