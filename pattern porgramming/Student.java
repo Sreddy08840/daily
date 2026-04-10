@@ -1,12 +1,8 @@
 class Student {
 
-	
-
 	int age;
 
 	String name;
-
-	
 
 	void study()
 
