@@ -1,12 +1,10 @@
-
 class Program1
 
 {
 
     static int a;
 
-    
-	static int b;
+    static int b;
     static
 
     {
@@ -19,12 +17,6 @@ class Program1
 
     }
 
-
-
-    
-
-
-
     void disp()
 
     {
@@ -36,8 +28,6 @@ class Program1
     	System.out.println(b);
 
     }
-
-    
 
     public static void main(String[] args)
 
