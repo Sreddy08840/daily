@@ -1,10 +1,7 @@
 class Student {
-
-	int age;
-
-	String name;
-
-	void study()
+int age;
+String name;
+void study()
 
 	{
 
