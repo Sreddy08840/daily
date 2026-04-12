@@ -1,8 +1,6 @@
 import java.util.Scanner;
-
 public class multiple {
-	
-	public static void mul(int n,int x) {
+public static void mul(int n,int x) {
 		for(int i=1;i<=x;i++) {
 			if(i%n==0) {
 				System.out.println(i);
