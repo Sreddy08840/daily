@@ -7,7 +7,6 @@ public class findsapce {
 			if(s.charAt(i)==' ') {
 				count++;
 			}
-			
 		}
 		return count;
 	}
