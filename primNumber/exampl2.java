@@ -13,15 +13,13 @@ class exampl2{
 			}
 			return "this  prime number";
 		
-
-			
 	
-		/*if(count==2){
+		if(count==2){
 			System.out.println( "this prime number");
 		}
 		else{
 			System.out.println( "this not prime number");
-		}*/
+		}
 	}
 			
 		
