@@ -12,8 +12,6 @@ class exampl2{
 			}
 			}
 			return "this  prime number";
-		
-	
 		if(count==2){
 			System.out.println( "this prime number");
 		}
@@ -26,7 +24,5 @@ class exampl2{
 		int n=sc.nextInt();
 		String res=primeexample(n);
 		System.out.println(res);
-		
-		
 	}
 }
