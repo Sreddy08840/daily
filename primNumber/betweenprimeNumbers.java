@@ -1,10 +1,6 @@
 import java.util.Scanner;
 
-
-
 public class betweenprimeNumbers {
-	
-	
 	public static boolean  checkPrime(int n){
 		int count =0;
 		for(int i=2;i*i<=n;i++) {
@@ -28,7 +24,6 @@ public class betweenprimeNumbers {
 				}
 			}
 		}
-		
 		
 	
 	public static void main(String[] args) {
