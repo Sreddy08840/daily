@@ -24,10 +24,6 @@ public class findall {
 		System.out.println("spcc "+spc);
 		
 	}
-	
-	
-	
-	
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
 		String s=scan.nextLine();
