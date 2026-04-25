@@ -46,8 +46,6 @@ class Bank{
 	}
 	
 }
-
-
 public class RBI {
 	public static void main(String[] args) {
 		Bank B=new Bank();
