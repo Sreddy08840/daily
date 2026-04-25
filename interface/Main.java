@@ -83,8 +83,6 @@ class MyCalculator3 implements Calculator{
 			cb.sub();
 		}
 	}
-
-
 public class Main {
 	public static void main(String[] args) {
 		MyCalculator1 mc1 =new MyCalculator1();
