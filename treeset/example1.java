@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class example1 {
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
-		
 		int n=scan.nextInt();
 		int[] ar =new int[n];
 		
