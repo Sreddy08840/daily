@@ -10,7 +10,6 @@ public class treeset {
 	tset.add(5);
 	tset.add(14);
 	System.out.println(tset);//[5, 9, 10, 12, 14]
-	
 	System.out.println(tset.ceiling(11));//12
 	System.out.println(tset.floor(11));//10
 	System.out.println(tset.headSet(11));//[5, 9, 10]
